@@ -1,0 +1,33 @@
+.Body{
+	background-color: #E2E2E2;
+	text-align: center;
+	align: center;
+}
+.MainBody
+{
+	background-color: #FFFFFF;
+	box-shadow: 1px 1px 1px 3px #E0E0E0;
+	margin: 0px;
+		margin-top: 25px;
+		margin-bottom: 35px;
+		
+	float: center;
+}
+
+.ContentText
+{
+	font-size: 1.3em;
+}
+
+.Sidebar{
+	background-color: #EEEEEE;
+	float: center;
+}
+
+div.slider img {
+	width:700px;
+	height:300px;
+    display: none;
+    /*position: absolute;*/
+    overflow: auto;
+}
